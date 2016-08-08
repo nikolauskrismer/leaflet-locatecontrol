@@ -18,7 +18,7 @@
   "readmeFilename": "README.md",
   "dependencies": {
     "font-awesome": "^4.5.0",
-    "leaflet": "^0.7.7"
+    "leaflet": "^1.0.0-rc.3"
   },
   "scripts": {
     "build": "grunt",
