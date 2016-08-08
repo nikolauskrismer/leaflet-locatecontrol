@@ -3,9 +3,11 @@
 [![Bower version](https://badge.fury.io/bo/leaflet.locatecontrol.svg)](http://badge.fury.io/bo/leaflet.locatecontrol)
 [![npm version](https://badge.fury.io/js/leaflet.locatecontrol.svg)](http://badge.fury.io/js/leaflet.locatecontrol)
 
+This is version 0.52.0 of the forked repository, with the exception that leaflet dependency is set to version 1.0.0-rc.3 instead of 0.7.7
+
 A useful control to geolocate the user with many options. Official [Leaflet](http://leafletjs.com/plugins.html#geolocation) and [MapBox plugin](https://www.mapbox.com/mapbox.js/example/v1.0.0/leaflet-locatecontrol/).
 
-Tested with [Leaflet](http://leafletjs.com/) 0.7 in Firefox, Webkit and mobile Webkit. Tested with [Font Awesome](https://fortawesome.github.io/Font-Awesome/) 4.5.
+Tested with [Leaflet](http://leafletjs.com/) 1.0.0-rc.3 in Firefox, Webkit and mobile Webkit. Tested with [Font Awesome](https://fortawesome.github.io/Font-Awesome/) 4.5.
 
 Please check for [breaking changes in the changelog](https://github.com/domoritz/leaflet-locatecontrol/blob/gh-pages/CHANGELOG.md).
 
